@@ -1,0 +1,193 @@
+{
+	"userGrowth": [
+		{
+			"date": "2023-08-01",
+			"totalUsers": 103245,
+			"activeUsers": 82596
+		},
+		{
+			"date": "2023-09-01",
+			"totalUsers": 107890,
+			"activeUsers": 86312
+		},
+		{
+			"date": "2023-10-01",
+			"totalUsers": 112456,
+			"activeUsers": 89965
+		},
+		{
+			"date": "2023-11-01",
+			"totalUsers": 116789,
+			"activeUsers": 93431
+		},
+		{
+			"date": "2023-12-01",
+			"totalUsers": 121234,
+			"activeUsers": 96987
+		},
+		{
+			"date": "2024-01-01",
+			"totalUsers": 125678,
+			"activeUsers": 100542
+		},
+		{
+			"date": "2024-02-01",
+			"totalUsers": 130123,
+			"activeUsers": 104098
+		},
+		{
+			"date": "2024-03-01",
+			"totalUsers": 134567,
+			"activeUsers": 107654
+		},
+		{
+			"date": "2024-04-01",
+			"totalUsers": 139012,
+			"activeUsers": 111210
+		},
+		{
+			"date": "2024-05-01",
+			"totalUsers": 143456,
+			"activeUsers": 114765
+		},
+		{
+			"date": "2024-06-01",
+			"totalUsers": 147901,
+			"activeUsers": 118321
+		},
+		{
+			"date": "2024-07-01",
+			"totalUsers": 152345,
+			"activeUsers": 121876
+		},
+		{
+			"date": "2024-08-01",
+			"totalUsers": 156790,
+			"activeUsers": 125432
+		}
+	],
+	"revenue": [
+		{
+			"date": "2023-08-01",
+			"subscriptions": 54321,
+			"ads": 27654
+		},
+		{
+			"date": "2023-09-01",
+			"subscriptions": 56789,
+			"ads": 28901
+		},
+		{
+			"date": "2023-10-01",
+			"subscriptions": 58765,
+			"ads": 29876
+		},
+		{
+			"date": "2023-11-01",
+			"subscriptions": 59876,
+			"ads": 28765
+		},
+		{
+			"date": "2023-12-01",
+			"subscriptions": 61234,
+			"ads": 30987
+		},
+		{
+			"date": "2024-01-01",
+			"subscriptions": 57654,
+			"ads": 26543
+		},
+		{
+			"date": "2024-02-01",
+			"subscriptions": 59012,
+			"ads": 27890
+		},
+		{
+			"date": "2024-03-01",
+			"subscriptions": 60123,
+			"ads": 28901
+		},
+		{
+			"date": "2024-04-01",
+			"subscriptions": 58901,
+			"ads": 27654
+		},
+		{
+			"date": "2024-05-01",
+			"subscriptions": 59876,
+			"ads": 28765
+		},
+		{
+			"date": "2024-06-01",
+			"subscriptions": 61234,
+			"ads": 29876
+		},
+		{
+			"date": "2024-07-01",
+			"subscriptions": 62345,
+			"ads": 30987
+		},
+		{
+			"date": "2024-08-01",
+			"subscriptions": 63456,
+			"ads": 31098
+		}
+	],
+	"topSongs": [
+		{
+			"name": "Feel Something",
+			"artist": "Excision",
+			"streams": 57890
+		},
+		{
+			"name": "ILYSB",
+			"artist": "LANY",
+			"streams": 54321
+		},
+		{
+			"name": "Clarity",
+			"artist": "Zedd",
+			"streams": 51234
+		},
+		{
+			"name": "Passionfruit",
+			"artist": "Drake",
+			"streams": 48765
+		},
+		{
+			"name": "Screen Saver",
+			"artist": "Subtronics",
+			"streams": 45678
+		}
+	],
+	"recentStreams": [
+		{
+			"songName": "4EVER",
+			"artist": "ISOKNOCK",
+			"dateStreamed": "2024-09-02",
+			"streamCount": 7,
+			"userId": "StreamifyRulez"
+		},
+		{
+			"songName": "SMACK TALK",
+			"artist": "ISOKNOCK",
+			"dateStreamed": "2024-09-01",
+			"streamCount": 3,
+			"userId": "ILuvSpeedyBrand"
+		},
+		{
+			"songName": "Some Random Song",
+			"artist": "Some Rnadom Artist",
+			"dateStreamed": "2024-08-02",
+			"streamCount": 5,
+			"userId": "PlzHireMeSpeedyBrand"
+		}
+	],
+	"metrics": {
+		"totalUsers": 156790,
+		"activeUsers": 125432,
+		"totalStreams": 4567,
+		"totalRevenue": 1123456,
+		"topArtist": "Excision"
+	}
+}
