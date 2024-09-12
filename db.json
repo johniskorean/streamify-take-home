@@ -176,11 +176,32 @@
 			"userId": "ILuvSpeedyBrand"
 		},
 		{
-			"songName": "Some Random Song",
+			"songName": "Good Things Fall Apart",
+			"artist": "Illenium",
+			"dateStreamed": "2024-08-23",
+			"streamCount": 10,
+			"userId": "MyNameIsJeff"
+		},
+		{
+			"songName": "Clarity",
+			"artist": "Zedd",
+			"dateStreamed": "2024-09-01",
+			"streamCount": 1,
+			"userId": "EDMManiac"
+		},
+		{
+			"songName": "Hollow",
+			"artist": "Dabin",
+			"dateStreamed": "2024-08-19",
+			"streamCount": 1,
+			"userId": "CryWachi"
+		},
+		{
+			"songName": "Really Random Song",
 			"artist": "Some Rnadom Artist",
-			"dateStreamed": "2024-08-02",
+			"dateStreamed": "2024-09-07",
 			"streamCount": 5,
-			"userId": "PlzHireMeSpeedyBrand"
+			"userId": "RandomUser"
 		}
 	],
 	"metrics": {
